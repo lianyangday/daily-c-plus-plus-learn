@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AVL树.h">
+    <ClInclude Include="AVLtree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
