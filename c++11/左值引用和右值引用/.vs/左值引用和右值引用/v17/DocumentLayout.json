@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\u4EE3\u7801\u5B58\u50A8\\daily-c\u002B\u002B-learn\\c\u002B\u002B11\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3630D792-848C-4499-B775-75061F229595}|\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528.vcxproj|D:\\github\u4EE3\u7801\u5B58\u50A8\\daily-c\u002B\u002B-learn\\c\u002B\u002B11\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3630D792-848C-4499-B775-75061F229595}|\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528.vcxproj|solutionrelative:\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\github\u4EE3\u7801\u5B58\u50A8\\daily-c\u002B\u002B-learn\\c\u002B\u002B11\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp",
+              "RelativeDocumentMoniker": "\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp",
+              "ToolTip": "D:\\github\u4EE3\u7801\u5B58\u50A8\\daily-c\u002B\u002B-learn\\c\u002B\u002B11\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp",
+              "RelativeToolTip": "\u5DE6\u503C\u5F15\u7528\u548C\u53F3\u503C\u5F15\u7528\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T13:07:38.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
