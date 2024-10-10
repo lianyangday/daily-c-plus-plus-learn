@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitee\u4EE3\u7801\u5B58\u50A8\\c-learning-code-library\\c\u002B\u002B\u7684\u5F15\u7528\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4248B90D-F6A5-4FE3-8E20-1D7342B7741E}|c\u002B\u002B\u7684\u5F15\u7528\\c\u002B\u002B\u7684\u5F15\u7528.vcxproj|D:\\gitee\u4EE3\u7801\u5B58\u50A8\\c-learning-code-library\\c\u002B\u002B\u7684\u5F15\u7528\\c\u002B\u002B\u7684\u5F15\u7528\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4248B90D-F6A5-4FE3-8E20-1D7342B7741E}|c\u002B\u002B\u7684\u5F15\u7528\\c\u002B\u002B\u7684\u5F15\u7528.vcxproj|solutionrelative:c\u002B\u002B\u7684\u5F15\u7528\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\gitee\u4EE3\u7801\u5B58\u50A8\\c-learning-code-library\\c\u002B\u002B\u7684\u5F15\u7528\\c\u002B\u002B\u7684\u5F15\u7528\\test.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B\u7684\u5F15\u7528\\test.cpp",
+              "ToolTip": "D:\\gitee\u4EE3\u7801\u5B58\u50A8\\c-learning-code-library\\c\u002B\u002B\u7684\u5F15\u7528\\c\u002B\u002B\u7684\u5F15\u7528\\test.cpp",
+              "RelativeToolTip": "c\u002B\u002B\u7684\u5F15\u7528\\test.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:16:40.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
